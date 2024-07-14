@@ -116,7 +116,7 @@ section{
     font-size: 25px;
     text-align: right;
    line-height: 1.1;
-  margin-left: 365px;
+  margin-left: 379px;
 }
 .main-btn{
     display: inline-block;
@@ -208,7 +208,7 @@ border-radius: 5px;
     background-image: url(./image/941431832b24c5e55b84b10891dd26ea.jpg);
     background-repeat: no-repeat;
     
-    margin-left: -90px;
+    margin-left: -80px;
     border: 10px solid rgb(254, 142, 101);
     
 }
@@ -464,7 +464,7 @@ font-weight: 400;
  }
  .brands{
     color: black;
-    font-size: 30px;
+    
  }
  .icon:hover .brands{
     color: white;
@@ -500,25 +500,8 @@ font-weight: 400;
  footer{
     margin-top: 8%;
  }
- .icon-up-arrow{
-    float: right;
-    margin: -40px 30px 30px 0px;
- }
- html{
-    scroll-behavior: smooth;
-
- }
- ::-webkit-scrollbar{
-    width: 10px;
-    border-radius: 10px;
- }
- ::-webkit-scrollbar-track{
-    background-color: black;
- }
- ::-webkit-scrollbar-thumb{
-    background-color: orange;
-    border-radius: 10px;
- }
+ 
+ 
 
 
 
